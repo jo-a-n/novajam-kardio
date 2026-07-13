@@ -73,7 +73,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "a490adf1-3038-407f-bf32-fb64ed355969",
@@ -566,7 +565,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "7GnfgfMwy4Zp7cKQgx3OXs",
@@ -619,7 +617,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "3HYjwddRnZKK894uA498Oj",
@@ -671,7 +668,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "6Wc0xMQoZAkg20dWJ0WVHO",
@@ -724,7 +720,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "4jCYEQTHOSTC7SJl1VSwq2",
@@ -911,7 +906,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "4jCYEQTHOSTC7SJl1VSSS2",
@@ -971,7 +965,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "6xG6U4YgzbztEemgDmq1cn",
@@ -1089,7 +1082,6 @@
       }
     ]
   },
-
   {
     "title": "Dr Agapitou | Η Καρδιολόγος",
     "url": "/about-Dr-Agapitou",
@@ -1161,7 +1153,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "e5b8012d-a9e9-4248-b8bd-5421c93166a5",
@@ -1210,7 +1201,6 @@
           }
         ]
       },
-
       {
         "contentType": "smartsection",
         "id": "09ca349b-dd54-461e-baa1-8a01c18e9132",
@@ -1237,7 +1227,6 @@
             },
             "contentType": "featuredmedia"
           },
-
           {
             "eyebrow": null,
             "title": "## __Βιογραφικό και Εμπειρία__",
@@ -1256,7 +1245,6 @@
       }
     ]
   },
-
   {
     "title": "Dr Agapitou | Υπηρεσίες Ιατρείου",
     "url": "/clinic-services",
@@ -2099,7 +2087,1735 @@
       }
     ]
   },
-
+  {
+    "title": "Dr Agapitou | Ηλεκτροκαρδιογράφημα (ΗΚΓ)",
+    "url": "/clinic-services/ilektrokardiografima",
+    "seo": {
+      "metaTitle": "Ηλεκτροκαρδιογράφημα (ΗΚΓ) στην Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Ηλεκτροκαρδιογράφημα (ΗΚΓ) στην Ηλιούπολη από την Καρδιολόγο Έλενα Αγαπητού. Ανώδυνη εξέταση λίγων λεπτών, χωρίς προετοιμασία. Κλείστε ραντεβού.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/ilektrokardiografima",
+      "focusKeywords": [
+        "Ηλεκτροκαρδιογράφημα Ηλιούπολη",
+        "ΗΚΓ Ηλιούπολη",
+        "Καρδιογράφημα Ηλιούπολη",
+        "Καρδιολόγος Ηλιούπολη"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-ilektrokardiografima-hero",
+        "htmlid": "ilektrokardiografima-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Ηλεκτροκαρδιογράφημα (ΗΚΓ)__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Το ηλεκτροκαρδιογράφημα (ΗΚΓ) είναι απαραίτητο μέρος της βασικής καρδιολογικής εξέτασης. Στο ιατρείο της Καρδιολόγου Έλενας Αγαπητού στην Ηλιούπολη, πραγματοποιείται με σύγχρονο εξοπλισμό και αξιολογείται πάντα σε συνδυασμό με το ιστορικό και την κλινική εξέταση.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-ilektrokardiografima-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/6fURLBcNnF1ezjndFsJ0QR/c1745b0ce1bdf9e9c5a5bdeacc0b6b37/agapitou-hlektrokardiografhma.jpg",
+              "title": "Ηλεκτροκαρδιογράφημα (ΗΚΓ)",
+              "description": "Ηλεκτροκαρδιογράφημα – Εξοπλισμός της εξέτασης στο ιατρείο",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-ilektrokardiografima-info",
+        "htmlid": "ilektrokardiografima-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι είναι το ηλεκτροκαρδιογράφημα__\n\nΤο ηλεκτροκαρδιογράφημα καταγράφει την ηλεκτρική δραστηριότητα της καρδιάς. Από την καταγραφή αντλούνται ουσιώδεις πληροφορίες για τον καρδιακό ρυθμό και τη συχνότητα, τυχόν διαταραχές της αγωγιμότητας, καθώς και ενδείξεις ισχαιμίας ή υπερτροφίας του μυοκαρδίου. Σε συνδυασμό με το ιστορικό και την κλινική εξέταση, διαμορφώνει την αρχική εκτίμηση της καρδιακής λειτουργίας.\n\n## __Πότε συνιστάται__\n\n- Στο πλαίσιο του τακτικού καρδιολογικού ελέγχου (check-up)\n- Για τη διερεύνηση συμπτωμάτων όπως αίσθημα παλμών, ζάλη, θωρακικό άλγος ή δύσπνοια\n- Σε άτομα με αρτηριακή υπέρταση, δυσλιπιδαιμία ή οικογενειακό ιστορικό καρδιοπάθειας\n- Ως μέρος του προαθλητικού και του προεγχειρητικού ελέγχου\n\n## __Πώς γίνεται η εξέταση__\n\nΗ εξέταση είναι εντελώς ανώδυνη και δεν απαιτεί καμία προετοιμασία. Τοποθετούνται ηλεκτρόδια στο θώρακα και στα άκρα και η καταγραφή ολοκληρώνεται μέσα σε λίγα λεπτά. Το αποτέλεσμα αξιολογείται άμεσα από την ιατρό, η οποία εξηγεί τα ευρήματα με απλό και κατανοητό τρόπο.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-ilektrokardiografima-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-ilektrokardiografima-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Υπέρηχος (Triplex) Καρδιάς & Αορτής",
+    "url": "/clinic-services/triplex-kardias",
+    "seo": {
+      "metaTitle": "Triplex Καρδιάς & Αορτής στην Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Υπέρηχος (triplex) καρδιάς και αορτής στην Ηλιούπολη από την Καρδιολόγο Έλενα Αγαπητού. Ανώδυνη εξέταση χωρίς ακτινοβολία, με άμεσα αποτελέσματα.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/triplex-kardias",
+      "focusKeywords": [
+        "Triplex καρδιάς Ηλιούπολη",
+        "Υπέρηχος καρδιάς Ηλιούπολη",
+        "Τρίπλεξ καρδιάς",
+        "Υπερηχογράφημα καρδιάς",
+        "Triplex αορτής"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-triplex-kardias-hero",
+        "htmlid": "triplex-kardias-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Υπέρηχος (Triplex) Καρδιάς & Αορτής__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Ο υπέρηχος (triplex) καρδιάς και αορτής είναι η βασικότερη απεικονιστική εξέταση της καρδιολογίας: εκτιμά τη δομή και τη λειτουργία της καρδιάς, καθώς και την αορτή για τυχόν ανευρύσματα. Στο ιατρείο της Ηλιούπολης πραγματοποιείται με σύγχρονο υπερηχογράφο και τα αποτελέσματα εξηγούνται άμεσα.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-triplex-kardias-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/306r6q4itavlR5Qz5bNmtq/8ec1adf2a24846aa9c318b40c241272e/agapitou-uperhxos.jpg",
+              "title": "Υπέρηχος (Triplex) Καρδιάς & Αορτής",
+              "description": "Η γιατρός καθισμένη χειρίζεται το μηχάνημα εξέτασης για υπέρηχο καρδιάς και αορτής",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-triplex-kardias-info",
+        "htmlid": "triplex-kardias-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι είναι το triplex καρδιάς__\n\nΠρόκειται για υπερηχογράφημα της καρδιάς με έγχρωμη απεικόνιση της ροής του αίματος (Doppler). Απεικονίζει τις κοιλότητες και τα τοιχώματα της καρδιάς, τις βαλβίδες και το περικάρδιο, ενώ παράλληλα εκτιμά τη συσταλτικότητα του μυοκαρδίου και τη λειτουργία των βαλβίδων. Συμπληρωματικά ελέγχεται η αορτή για διάταση ή ανεύρυσμα.\n\n## __Τι μπορεί να αναδείξει__\n\n- Βαλβιδοπάθειες (στενώσεις ή ανεπάρκειες βαλβίδων)\n- Διαταραχές της συσταλτικότητας και καρδιακή ανεπάρκεια\n- Μυοκαρδιοπάθειες και υπερτροφία του μυοκαρδίου\n- Συγγενείς καρδιοπάθειες\n- Παθήσεις του περικαρδίου\n- Ανεύρυσμα ή διάταση της αορτής\n\n## __Πώς γίνεται η εξέταση__\n\nΗ εξέταση είναι ανώδυνη, δεν χρησιμοποιεί ακτινοβολία και δεν απαιτεί προετοιμασία. Ο εξεταζόμενος ξαπλώνει στο εξεταστικό κρεβάτι και η ιατρός σαρώνει την περιοχή της καρδιάς με τον ηχοβολέα, χρησιμοποιώντας ειδικό τζελ. Διαρκεί συνήθως 20 έως 30 λεπτά και τα ευρήματα συζητούνται αναλυτικά αμέσως μετά.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-triplex-kardias-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-triplex-kardias-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Holter Ρυθμού (24ώρου & 48ώρου)",
+    "url": "/clinic-services/holter-rythmou",
+    "seo": {
+      "metaTitle": "Holter Ρυθμού 24 & 48 Ωρών στην Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Holter ρυθμού 24 ή 48 ωρών στην Ηλιούπολη από την Καρδιολόγο Έλενα Αγαπητού. Διερεύνηση αρρυθμιών, αισθήματος παλμών, ζάλης και λιποθυμικών επεισοδίων.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/holter-rythmou",
+      "focusKeywords": [
+        "Holter ρυθμού Ηλιούπολη",
+        "Χόλτερ ρυθμού",
+        "Holter 24 ωρών",
+        "Καταγραφή αρρυθμιών",
+        "Αίσθημα παλμών"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-holter-rythmou-hero",
+        "htmlid": "holter-rythmou-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Holter Ρυθμού (24ώρου & 48ώρου)__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Το Holter ρυθμού είναι συνεχόμενη καταγραφή του ηλεκτροκαρδιογραφήματος για 24 ή 48 ώρες, μέσω μιας ειδικής μικρής συσκευής. Χρησιμοποιείται για τη διερεύνηση συμπτωμάτων όπως αίσθημα παλμών, ζάλη και λιποθυμία, τα οποία συχνά δεν προλαβαίνει να αποτυπώσει ένα απλό καρδιογράφημα.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-holter-rythmou-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/29eSztdHVGnHjBf3Td4C4e/2ca2d13bc9570353d35beae13e4ef81a/holter-ruthmou.jpg",
+              "title": "Holter Ρυθμού (24ώρου & 48ώρου)",
+              "description": "Holter πίεσης και ρυθμού – Εξοπλισμός της εξέτασης στο ιατρείο",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-holter-rythmou-info",
+        "htmlid": "holter-rythmou-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι είναι το Holter ρυθμού__\n\nΕίναι μια μικρή φορητή συσκευή που καταγράφει συνεχόμενα τον καρδιακό ρυθμό για 24 ή 48 ώρες, ενώ ο εξεταζόμενος ακολουθεί κανονικά το καθημερινό του πρόγραμμα — δραστηριότητες, εργασία και ύπνο. Έτσι εντοπίζονται διαταραχές του ρυθμού που εμφανίζονται περιστασιακά μέσα στο εικοσιτετράωρο.\n\n## __Πότε συνιστάται__\n\n- Διερεύνηση αισθήματος παλμών, ζάλης ή λιποθυμικών επεισοδίων\n- Ανίχνευση αρρυθμιών, όπως έκτακτες συστολές ή κολπική μαρμαρυγή\n- Έλεγχος βραδυκαρδίας ή παύσεων του ρυθμού\n- Παρακολούθηση της αποτελεσματικότητας αντιαρρυθμικής αγωγής\n\n## __Πώς γίνεται η εξέταση__\n\nΗ συσκευή τοποθετείται στο ιατρείο με μικρά αυτοκόλλητα ηλεκτρόδια στο θώρακα — η διαδικασία είναι ανώδυνη και διαρκεί λίγα λεπτά. Ο εξεταζόμενος συνεχίζει κανονικά τις δραστηριότητές του και σημειώνει τυχόν συμπτώματα. Μετά την επιστροφή της συσκευής, η ιατρός αναλύει την καταγραφή και εξηγεί τα ευρήματα. Υπάρχει δυνατότητα τοποθέτησης και [κατ' οίκον](/clinic-services/episkepsi-kat-oikon).",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-holter-rythmou-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-holter-rythmou-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Holter Πίεσης (24ωρη Καταγραφή)",
+    "url": "/clinic-services/holter-piesis",
+    "seo": {
+      "metaTitle": "Holter Πίεσης — 24ωρη Καταγραφή στην Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Holter πίεσης στην Ηλιούπολη από την Καρδιολόγο Έλενα Αγαπητού. 24ωρη καταγραφή της αρτηριακής πίεσης για αξιόπιστη διάγνωση και ρύθμιση της υπέρτασης.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/holter-piesis",
+      "focusKeywords": [
+        "Holter πίεσης Ηλιούπολη",
+        "24ωρη καταγραφή πίεσης",
+        "Χόλτερ πίεσης",
+        "Αρτηριακή υπέρταση Ηλιούπολη"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-holter-piesis-hero",
+        "htmlid": "holter-piesis-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Holter Πίεσης (24ωρη Καταγραφή)__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Το Holter πίεσης καταγράφει την αρτηριακή πίεση επί 24 ώρες, τόσο κατά τη διάρκεια της ημέρας όσο και στον ύπνο. Αποτελεί το πιο αξιόπιστο εργαλείο για τη διάγνωση της αρτηριακής υπέρτασης και την αξιολόγηση της θεραπείας της.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-holter-piesis-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/2N1pdoYL3hkDD1SglSyZrX/236e914241de4973c6d5d778a86304c8/holter-pieshs.jpg",
+              "title": "Holter Πίεσης (24ωρη Καταγραφή)",
+              "description": "Φωτογραφία καταγραφέα Holter του ιατρείου",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-holter-piesis-info",
+        "htmlid": "holter-piesis-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι είναι το Holter πίεσης__\n\nΕίναι μια μικρή φορητή συσκευή με περιχειρίδα που μετρά αυτόματα την αρτηριακή πίεση σε τακτά χρονικά διαστήματα μέσα στο εικοσιτετράωρο, ενώ ο εξεταζόμενος εκτελεί κανονικά τις καθημερινές του δραστηριότητες. Η καταγραφή της νυχτερινής πίεσης προσφέρει επιπλέον πολύτιμες πληροφορίες που δεν μπορούν να ληφθούν με μεμονωμένες μετρήσεις στο ιατρείο.\n\n## __Πότε συνιστάται__\n\n- Για την αξιόπιστη διάγνωση της αρτηριακής υπέρτασης\n- Όταν υπάρχει υποψία «υπέρτασης λευκής μπλούζας» (υψηλές τιμές μόνο στο ιατρείο) ή συγκαλυμμένης υπέρτασης\n- Για την παρακολούθηση της αποτελεσματικότητας της φαρμακευτικής αγωγής και τη ρύθμισή της\n- Για τη διερεύνηση επεισοδίων υπότασης ή ζάλης\n\n## __Πώς γίνεται η εξέταση__\n\nΗ συσκευή τοποθετείται στο ιατρείο και αφαιρείται μετά από 24 ώρες. Στο διάστημα αυτό ο εξεταζόμενος ακολουθεί το συνηθισμένο του πρόγραμμα. Η ιατρός αναλύει στη συνέχεια τις μετρήσεις και, εφόσον χρειάζεται, προσαρμόζει ανάλογα τη θεραπευτική αγωγή.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-holter-piesis-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-holter-piesis-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Δοκιμασία Κόπωσης με Τάπητα",
+    "url": "/clinic-services/dokimasia-koposis",
+    "seo": {
+      "metaTitle": "Δοκιμασία Κόπωσης με Τάπητα στην Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Δοκιμασία κόπωσης (τεστ κοπώσεως) με τάπητα στην Ηλιούπολη από την Καρδιολόγο Έλενα Αγαπητού. Έλεγχος της καρδιάς κατά την άσκηση, με συνεχή παρακολούθηση.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/dokimasia-koposis",
+      "focusKeywords": [
+        "Δοκιμασία κόπωσης Ηλιούπολη",
+        "Τεστ κοπώσεως Ηλιούπολη",
+        "Δοκιμασία κόπωσης σε τάπητα",
+        "Στεφανιαία νόσος έλεγχος"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-dokimasia-koposis-hero",
+        "htmlid": "dokimasia-koposis-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Δοκιμασία Κόπωσης με Τάπητα__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Η δοκιμασία κόπωσης είναι η παρακολούθηση και καταγραφή του ηλεκτροκαρδιογραφήματος και της αρτηριακής πίεσης κατά τη διάρκεια φυσικής άσκησης, με γρήγορο βάδισμα σε κυλιόμενο τάπητα. Δείχνει πώς ανταποκρίνεται η καρδιά στην προσπάθεια — πληροφορία που δεν μπορεί να δώσει μια εξέταση ηρεμίας.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-dokimasia-koposis-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/4za8XaU3ZkhUAI3gIyu7Om/26041f922d3d75348501ffe7cf1455bc/agapitou-12.jpg",
+              "title": "Δοκιμασία Κόπωσης με Τάπητα",
+              "description": "Ο διάδρομος και τα μηχανήματα καταγραφής του ιατρείου για δοκιμασία κόπωσης με τάπητα",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-dokimasia-koposis-info",
+        "htmlid": "dokimasia-koposis-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι είναι η δοκιμασία κόπωσης__\n\nΚατά τη διάρκεια της εξέτασης, ο εξεταζόμενος βαδίζει σε κυλιόμενο τάπητα του οποίου η ταχύτητα και η κλίση αυξάνονται σταδιακά, ενώ καταγράφονται συνεχώς το ηλεκτροκαρδιογράφημα και η αρτηριακή πίεση. Έτσι αξιολογείται η συμπεριφορά του καρδιακού ρυθμού και της πίεσης στην άσκηση, καθώς και τυχόν ενδείξεις ισχαιμίας του μυοκαρδίου.\n\n## __Πότε συνιστάται__\n\n- Διερεύνηση συμπτωμάτων όπως πόνος στο στήθος ή δύσπνοια στην προσπάθεια\n- Έλεγχος για στεφανιαία νόσο\n- Εκτίμηση της φυσικής κατάστασης και της ανοχής στην άσκηση\n- Αξιολόγηση της αρτηριακής πίεσης και του καρδιακού ρυθμού κατά την άσκηση\n- Στο πλαίσιο του προαθλητικού ελέγχου, όπου κρίνεται απαραίτητο\n\n## __Πώς γίνεται & τι να έχετε μαζί σας__\n\nΦορέστε άνετα ρούχα και αθλητικά παπούτσια και αποφύγετε βαρύ γεύμα πριν την εξέταση. Εάν λαμβάνετε φάρμακα, ενημερώστε την ιατρό εκ των προτέρων — ορισμένα ενδέχεται να χρειαστεί να διακοπούν προσωρινά, πάντα κατόπιν οδηγίας. Η εξέταση γίνεται με συνεχή ιατρική παρακολούθηση και τα αποτελέσματα συζητούνται αμέσως μετά.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-dokimasia-koposis-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-dokimasia-koposis-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Καρδιολογική Εξέταση Παιδιών",
+    "url": "/clinic-services/kardiologiki-exetasi-paidion",
+    "seo": {
+      "metaTitle": "Καρδιολογική Εξέταση Παιδιών στην Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Καρδιολογική εξέταση παιδιών όλων των ηλικιών στην Ηλιούπολη από την Καρδιολόγο Έλενα Αγαπητού, με πιστοποίηση στην παιδοκαρδιολογία. Κλείστε ραντεβού.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/kardiologiki-exetasi-paidion",
+      "focusKeywords": [
+        "Παιδοκαρδιολόγος Ηλιούπολη",
+        "Καρδιολογική εξέταση παιδιών",
+        "Παιδοκαρδιολογική εξέταση Αθήνα",
+        "Φύσημα καρδιάς παιδί"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-kardiologiki-exetasi-paidion-hero",
+        "htmlid": "kardiologiki-exetasi-paidion-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Καρδιολογική Εξέταση Παιδιών__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Η ιατρός αναλαμβάνει την καρδιολογική εξέταση παιδιών όλων των ηλικιών, με δυνατότητα διενέργειας όλων των απαραίτητων εξετάσεων στο ιατρείο. Διαθέτει πιστοποίηση στην παιδοκαρδιολογία και φροντίζει ώστε η εξέταση να γίνεται σε φιλικό και ήρεμο περιβάλλον για το παιδί.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-kardiologiki-exetasi-paidion-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/28dconN0Z9jwskUl8ryqnB/aad0b9bec960dd36c5e3ef471d021cba/eksetash-paidiwn.jpg",
+              "title": "Καρδιολογική Εξέταση Παιδιών",
+              "description": "Ενα παιδί κάθεται στο κρεβάτι εξέτασης περιμένοντας τη γιατρό",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-kardiologiki-exetasi-paidion-info",
+        "htmlid": "kardiologiki-exetasi-paidion-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Πότε χρειάζεται καρδιολογική εξέταση ένα παιδί__\n\n- Για σχολικές και αθλητικές βεβαιώσεις και τον προαθλητικό έλεγχο\n- Όταν ο παιδίατρος διαπιστώσει φύσημα ή άλλο εύρημα που χρειάζεται διερεύνηση\n- Για συμπτώματα όπως εύκολη κόπωση, ζάλη, λιποθυμικά επεισόδια ή αίσθημα παλμών\n- Όταν υπάρχει οικογενειακό ιστορικό συγγενούς καρδιοπάθειας ή αιφνίδιου καρδιακού θανάτου σε νεαρή ηλικία\n\n## __Τι περιλαμβάνει η εξέταση__\n\nΗ εξέταση ξεκινά με τη λήψη πλήρους ιστορικού και την κλινική εξέταση και συμπληρώνεται με ηλεκτροκαρδιογράφημα και υπέρηχο (triplex) καρδιάς, όπου αυτό απαιτείται. Τα ευρήματα εξηγούνται αναλυτικά στους γονείς, μαζί με σαφείς οδηγίες για τυχόν περαιτέρω έλεγχο ή παρακολούθηση.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-kardiologiki-exetasi-paidion-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-kardiologiki-exetasi-paidion-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Προαθλητικός Έλεγχος",
+    "url": "/clinic-services/proathlitikos-elegchos",
+    "seo": {
+      "metaTitle": "Προαθλητικός Καρδιολογικός Έλεγχος Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Προαθλητικός καρδιολογικός έλεγχος ενηλίκων και παιδιών στην Ηλιούπολη: κλινική εξέταση, ΗΚΓ και triplex καρδιάς από την Καρδιολόγο Έλενα Αγαπητού.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/proathlitikos-elegchos",
+      "focusKeywords": [
+        "Προαθλητικός έλεγχος Ηλιούπολη",
+        "Προαθλητικός καρδιολογικός έλεγχος",
+        "Κάρτα υγείας αθλητή Ηλιούπολη",
+        "Βεβαίωση αθλητή καρδιολόγος"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-proathlitikos-elegchos-hero",
+        "htmlid": "proathlitikos-elegchos-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Προαθλητικός Έλεγχος__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Ο προαθλητικός έλεγχος απευθύνεται σε ενήλικες και παιδιά που αθλούνται ή πρόκειται να ξεκινήσουν άθληση. Περιλαμβάνει κλινική εξέταση, ηλεκτροκαρδιογράφημα και triplex καρδιάς — και περαιτέρω διερεύνηση, εάν κριθεί αναγκαίο.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-proathlitikos-elegchos-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/LBqz43fszXn1W16qsUnoc/4f20e8c3b2794f8adff4c14a3febf8ff/agapitou-13.jpg",
+              "title": "Προαθλητικός Έλεγχος",
+              "description": "Το δωμάτιο εξέτασης με τον εξοπλισμό και εικόνες ανατομίας της καρδιάς στον τοίχο",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-proathlitikos-elegchos-info",
+        "htmlid": "proathlitikos-elegchos-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Γιατί είναι σημαντικός__\n\nΣτόχος του προαθλητικού ελέγχου είναι να εντοπιστούν έγκαιρα υποκείμενες καρδιακές παθήσεις που μπορεί να μην προκαλούν συμπτώματα, αλλά σχετίζονται με σοβαρά καρδιακά συμβάντα κατά την έντονη άσκηση. Ένας ολοκληρωμένος έλεγχος προσφέρει ασφάλεια στον αθλούμενο, την οικογένειά του και τον σύλλογό του.\n\n## __Τι περιλαμβάνει__\n\n- Λήψη πλήρους ατομικού και οικογενειακού ιστορικού\n- Κλινική καρδιολογική εξέταση\n- Ηλεκτροκαρδιογράφημα (ΗΚΓ)\n- Υπέρηχο (triplex) καρδιάς\n- Περαιτέρω έλεγχο (π.χ. δοκιμασία κόπωσης, Holter ρυθμού), εφόσον κριθεί απαραίτητο\n\n## __Βεβαιώσεις & κάρτα υγείας αθλητή__\n\nΜετά την ολοκλήρωση του ελέγχου εκδίδονται οι απαραίτητες βεβαιώσεις για αθλητικούς συλλόγους, σχολές και γυμναστήρια, καθώς και οι ιατρικές γνωματεύσεις που απαιτούνται για την κάρτα υγείας αθλητή, σύμφωνα με τις ισχύουσες προδιαγραφές.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-proathlitikos-elegchos-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-proathlitikos-elegchos-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Προεγχειρητικός Έλεγχος",
+    "url": "/clinic-services/proegcheiritikos-elegchos",
+    "seo": {
+      "metaTitle": "Προεγχειρητικός Καρδιολογικός Έλεγχος | Dr Αγαπητού",
+      "metaDescription": "Προεγχειρητικός καρδιολογικός έλεγχος στην Ηλιούπολη από την Καρδιολόγο Έλενα Αγαπητού. Εκτίμηση καρδιακής λειτουργίας και καρδιαγγειακού κινδύνου πριν από επέμβαση.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/proegcheiritikos-elegchos",
+      "focusKeywords": [
+        "Προεγχειρητικός έλεγχος Ηλιούπολη",
+        "Προεγχειρητικός καρδιολογικός έλεγχος",
+        "Καρδιολογική εκτίμηση πριν από χειρουργείο"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-proegcheiritikos-elegchos-hero",
+        "htmlid": "proegcheiritikos-elegchos-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Προεγχειρητικός Έλεγχος__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Ο προεγχειρητικός καρδιολογικός έλεγχος γίνεται για την εκτίμηση της καρδιακής λειτουργίας και τη ρύθμιση των παραγόντων καρδιαγγειακού κινδύνου πριν από χειρουργικές επεμβάσεις, ώστε η επέμβαση να πραγματοποιηθεί με τη μέγιστη δυνατή ασφάλεια.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-proegcheiritikos-elegchos-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/tPkyMiG9xaDymT1H2Buha/7bb30b0d66a3fcd93040d235c14c79ae/agapitou-11.jpg",
+              "title": "Προεγχειρητικός Έλεγχος",
+              "description": "Φωτογραφία στο δωμάτιο εξέτασης με το κρεβάτι εξέτασης και τον εξοπλισμό εξέτασης",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-proegcheiritikos-elegchos-info",
+        "htmlid": "proegcheiritikos-elegchos-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι περιλαμβάνει__\n\nΟ έλεγχος περιλαμβάνει λήψη ιστορικού, κλινική εξέταση και ηλεκτροκαρδιογράφημα, ενώ όπου απαιτείται συμπληρώνεται με υπέρηχο (triplex) καρδιάς ή περαιτέρω εξετάσεις. Με βάση τα ευρήματα, εκτιμάται ο καρδιαγγειακός κίνδυνος της επέμβασης, ρυθμίζεται η φαρμακευτική αγωγή όπου χρειάζεται και εκδίδεται η καρδιολογική γνωμάτευση για τον αναισθησιολόγο και τον χειρουργό.\n\n## __Τι να έχετε μαζί σας__\n\n- Πρόσφατες ή παλαιότερες καρδιολογικές και αιματολογικές εξετάσεις\n- Πλήρη λίστα των φαρμάκων που λαμβάνετε\n- Το σημείωμα ή παραπεμπτικό του χειρουργού, εφόσον υπάρχει\n\n## __Πότε να προγραμματίσετε τον έλεγχο__\n\nΣυνιστάται ο έλεγχος να γίνεται έγκαιρα πριν από την προγραμματισμένη επέμβαση, ώστε να υπάρχει επαρκής χρόνος για τυχόν συμπληρωματικές εξετάσεις ή προσαρμογή της αγωγής, χωρίς να καθυστερήσει το χειρουργείο.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-proegcheiritikos-elegchos-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-proegcheiritikos-elegchos-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Πιστοποιητικά Υγείας, Βεβαιώσεις & ΚΕΠΑ",
+    "url": "/clinic-services/pistopoiitika-ygeias",
+    "seo": {
+      "metaTitle": "Πιστοποιητικά Υγείας, Βεβαιώσεις & ΚΕΠΑ | Dr Αγαπητού",
+      "metaDescription": "Έκδοση πιστοποιητικών υγείας, βεβαιώσεων για εργασία και αθλητικές δραστηριότητες, και γνωματεύσεων ΚΕΠΑ από την Καρδιολόγο Έλενα Αγαπητού στην Ηλιούπολη.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/pistopoiitika-ygeias",
+      "focusKeywords": [
+        "Πιστοποιητικό υγείας καρδιολόγος",
+        "Βεβαίωση καρδιολόγου",
+        "ΚΕΠΑ καρδιολογική γνωμάτευση",
+        "Καρδιολόγος Ηλιούπολη"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-pistopoiitika-ygeias-hero",
+        "htmlid": "pistopoiitika-ygeias-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Πιστοποιητικά Υγείας, Βεβαιώσεις & ΚΕΠΑ__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Στο ιατρείο εκδίδονται πιστοποιητικά υγείας, βεβαιώσεις για εργασία και αθλητικές δραστηριότητες, καθώς και ιατρικές γνωματεύσεις για ΚΕΠΑ, σύμφωνα με τις ισχύουσες ιατρικές προδιαγραφές.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-pistopoiitika-ygeias-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/2vwFwmxMBYBdsLjjZvwBC7/6e446b29958c49794480ee2603c75cd0/agapitou-6.jpg",
+              "title": "Πιστοποιητικά Υγείας, Βεβαιώσεις & ΚΕΠΑ",
+              "description": "Το γραφείο της γιατρού με δύο καρέκλες επισκεπτών μπροστά του",
+              "width": 1000,
+              "height": 660,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-pistopoiitika-ygeias-info",
+        "htmlid": "pistopoiitika-ygeias-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι μπορεί να εκδοθεί__\n\n- Πιστοποιητικά υγείας για εργασία ή σπουδές\n- Βεβαιώσεις για αθλητικές δραστηριότητες, συλλόγους και γυμναστήρια\n- Καρδιολογικές γνωματεύσεις για τα Κέντρα Πιστοποίησης Αναπηρίας (ΚΕΠΑ)\n\n## __Πώς γίνεται η διαδικασία__\n\nΗ έκδοση κάθε πιστοποιητικού ή βεβαίωσης προϋποθέτει κλινική καρδιολογική εξέταση και, όπου προβλέπεται, τις απαραίτητες εξετάσεις (ηλεκτροκαρδιογράφημα, υπέρηχο καρδιάς κ.ά.). Έτσι διασφαλίζεται ότι το έγγραφο αποτυπώνει με ακρίβεια και εγκυρότητα την κατάσταση της υγείας σας. Για τις γνωματεύσεις ΚΕΠΑ, φέρτε μαζί σας τον ιατρικό σας φάκελο και τυχόν προηγούμενες εξετάσεις, ώστε η γνωμάτευση να είναι πλήρης και τεκμηριωμένη.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-pistopoiitika-ygeias-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-pistopoiitika-ygeias-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Διαχείριση Παθήσεων & Διερεύνηση Συμπτωμάτων",
+    "url": "/clinic-services/pathiseis-kai-symptomata",
+    "seo": {
+      "metaTitle": "Καρδιολογικές Παθήσεις & Συμπτώματα | Dr Αγαπητού Ηλιούπολη",
+      "metaDescription": "Διαχείριση υπέρτασης, στεφανιαίας νόσου, αρρυθμιών και καρδιακής ανεπάρκειας, και διερεύνηση συμπτωμάτων όπως πόνος στο στήθος και δύσπνοια. Ηλιούπολη.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/pathiseis-kai-symptomata",
+      "focusKeywords": [
+        "Καρδιολόγος υπέρταση Ηλιούπολη",
+        "Κολπική μαρμαρυγή",
+        "Καρδιακή ανεπάρκεια παρακολούθηση",
+        "Πόνος στο στήθος καρδιολόγος"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-pathiseis-kai-symptomata-hero",
+        "htmlid": "pathiseis-kai-symptomata-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Διαχείριση Παθήσεων & Διερεύνηση Συμπτωμάτων__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Το ιατρείο αναλαμβάνει τη διάγνωση, τη θεραπεία και τη μακροχρόνια παρακολούθηση των παθήσεων της καρδιάς, καθώς και τη μεθοδική διερεύνηση καρδιολογικών συμπτωμάτων, με εξατομικευμένο πλάνο για κάθε ασθενή.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-pathiseis-kai-symptomata-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/24LGAoBqoixY41rYKwRhDs/fe23270aec5a06427b8b0dcf2fd53a1f/agapitou-9.jpg",
+              "title": "Διαχείριση Παθήσεων & Διερεύνηση Συμπτωμάτων",
+              "description": "Η ιατρός κοιτάζει την οθόνη μηχανήματος εξέτασης του ιατρείου",
+              "width": 1000,
+              "height": 660,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-pathiseis-kai-symptomata-info",
+        "htmlid": "pathiseis-kai-symptomata-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Παθήσεις που αντιμετωπίζονται__\n\n- Αρτηριακή υπέρταση\n- Δυσλιπιδαιμία (χοληστερίνη)\n- Στεφανιαία νόσος\n- Αρρυθμίες και κολπική μαρμαρυγή\n- Καρδιακή ανεπάρκεια\n- Βαλβιδοπάθειες\n- Μυοκαρδιοπάθειες\n- Ανεύρυσμα αορτής\n\n## __Συμπτώματα που διερευνώνται__\n\n- Θωρακικό άλγος (πόνος στο στήθος)\n- Δύσπνοια\n- Αίσθημα παλμών\n- Ζάλη και λιποθυμικά επεισόδια\n- Οιδήματα κάτω άκρων\n\n## __Πώς γίνεται η παρακολούθηση__\n\nΜετά την αρχική εκτίμηση με κλινική εξέταση και τους απαραίτητους διαγνωστικούς ελέγχους, καταρτίζεται εξατομικευμένο θεραπευτικό πλάνο και πρόγραμμα τακτικής επανεκτίμησης. Στόχος είναι η σταθερή ρύθμιση της πάθησης, η προσαρμογή της αγωγής όταν χρειάζεται και η πρόληψη των επιπλοκών — πάντα μέσα από μια σχέση εμπιστοσύνης και αποτελεσματικής επικοινωνίας με τον ασθενή.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-pathiseis-kai-symptomata-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-pathiseis-kai-symptomata-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Συνταγογράφηση",
+    "url": "/clinic-services/syntagografisi",
+    "seo": {
+      "metaTitle": "Συνταγογράφηση ΕΟΠΥΥ | Καρδιολόγος Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Ηλεκτρονική συνταγογράφηση φαρμάκων και παραπεμπτικών εξετάσεων μέσω ΕΟΠΥΥ από την Καρδιολόγο Έλενα Αγαπητού στην Ηλιούπολη.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/syntagografisi",
+      "focusKeywords": [
+        "Συνταγογράφηση καρδιολόγος Ηλιούπολη",
+        "Συνταγογράφηση ΕΟΠΥΥ",
+        "Καρδιολόγος ΕΟΠΥΥ Ηλιούπολη"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-syntagografisi-hero",
+        "htmlid": "syntagografisi-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Συνταγογράφηση__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Στο ιατρείο πραγματοποιείται ηλεκτρονική συνταγογράφηση φαρμάκων και παραπεμπτικών για εξετάσεις μέσω Ε.Ο.Π.Υ.Υ.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-syntagografisi-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/6Va6zOhPsb7sSxvbqdIqDn/b96380b459d866b733f770bc39ec5232/agapitou-suntagografhsh.jpg",
+              "title": "Συνταγογράφηση",
+              "description": "Ο φορητός υπολογιστής και το μπλοκάκι με το στυλό της ιατρού στο πλάι",
+              "width": 1000,
+              "height": 660,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-syntagografisi-info",
+        "htmlid": "syntagografisi-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι περιλαμβάνει__\n\n- Συνταγογράφηση της φαρμακευτικής αγωγής, τόσο για καρδιολογικές όσο και για συνυπάρχουσες παθήσεις, στο πλαίσιο της επίσκεψης\n- Έκδοση παραπεμπτικών για αιματολογικές και απεικονιστικές εξετάσεις μέσω Ε.Ο.Π.Υ.Υ.\n- Ανανέωση αγωγής χρόνιων παθήσεων, με ταυτόχρονη επανεκτίμηση της πορείας του ασθενούς\n\n## __Γιατί στο πλαίσιο επίσκεψης__\n\nΗ συνταγογράφηση συνδυάζεται πάντα με κλινική αξιολόγηση: έτσι διασφαλίζεται ότι η αγωγή παραμένει κατάλληλη, οι δόσεις σωστές και ότι τυχόν νέες ενδείξεις ή παρενέργειες εντοπίζονται έγκαιρα. Για διευκόλυνσή σας, μπορείτε να συνδυάσετε τη συνταγογράφηση με τον τακτικό σας καρδιολογικό έλεγχο.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-syntagografisi-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-syntagografisi-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Ιατρείο Διακοπής Καπνίσματος",
+    "url": "/clinic-services/diakopi-kapnismatos",
+    "seo": {
+      "metaTitle": "Ιατρείο Διακοπής Καπνίσματος στην Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Ιατρείο διακοπής καπνίσματος στην Ηλιούπολη από την Καρδιολόγο Έλενα Αγαπητού, με πιστοποιημένη εκπαίδευση, εξατομικευμένη φαρμακευτική αγωγή και παρακολούθηση.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/diakopi-kapnismatos",
+      "focusKeywords": [
+        "Ιατρείο διακοπής καπνίσματος Ηλιούπολη",
+        "Διακοπή καπνίσματος Αθήνα",
+        "Πρόγραμμα διακοπής καπνίσματος",
+        "Φαρμακευτική αγωγή διακοπής καπνίσματος"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-diakopi-kapnismatos-hero",
+        "htmlid": "diakopi-kapnismatos-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Ιατρείο Διακοπής Καπνίσματος__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Στόχος του ιατρείου διακοπής καπνίσματος είναι αφενός να εξηγήσουμε στον ασθενή τα πολλαπλά οφέλη από τη διακοπή του καπνίσματος και αφετέρου να τον βοηθήσουμε με ειδική φαρμακευτική αγωγή και παρακολούθηση, εφόσον έχει αποφασίσει να διακόψει το κάπνισμα. Η ιατρός διαθέτει πιστοποιημένη εκπαίδευση στη διακοπή καπνίσματος.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-diakopi-kapnismatos-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/cAmxOoxCLurVQcolMLnih/ffdffbd92cb726447951f57cc4b940b7/agapitou-5.jpg",
+              "title": "Ιατρείο Διακοπής Καπνίσματος",
+              "description": "Φωτογραφία του χώρου με καναπέ και έργα τέχνης στον τοίχο πίσω του",
+              "width": 1000,
+              "height": 660,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-diakopi-kapnismatos-info",
+        "htmlid": "diakopi-kapnismatos-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Σε ποιους απευθύνεται__\n\n- Σε όσους επιθυμούν να διακόψουν το κάπνισμα και αναζητούν οργανωμένη ιατρική υποστήριξη\n- Σε ασθενείς με καρδιολογικό ιστορικό, στους οποίους έχει συστηθεί άμεση και οριστική διακοπή του καπνίσματος (π.χ. μετά από έμφραγμα)\n\n## __Πώς λειτουργεί το πρόγραμμα__\n\nΜετά από αρχική εκτίμηση, σχεδιάζεται εξατομικευμένο πλάνο διακοπής, το οποίο μπορεί να περιλαμβάνει ειδική φαρμακευτική αγωγή προσαρμοσμένη στις ανάγκες του εκάστοτε ασθενή, καθώς και τακτική παρακολούθηση για την υποστήριξη της προσπάθειας και την πρόληψη της υποτροπής.\n\n## __Γιατί με ιατρική υποστήριξη__\n\nΜέσω της κατάλληλης φαρμακευτικής αγωγής και της συστηματικής παρακολούθησης, αυξάνονται σημαντικά τα ποσοστά επιτυχούς και οριστικής διακοπής του καπνίσματος σε σύγκριση με την προσπάθεια χωρίς βοήθεια. Παράλληλα, το καρδιαγγειακό όφελος ξεκινά από τις πρώτες κιόλας εβδομάδες μετά τη διακοπή.\n\n[Δείτε την Πιστοποίηση Εκπαίδευσης](https://assets.ctfassets.net/n8ip1shnectl/1Zfj25NWqPVDLtEy85oArV/ee4366cf15241a46bff229dd4345e2fb/Pistopoihtiko-Ekpaideushs-Agaphtou-Elena.pdf)",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-diakopi-kapnismatos-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-diakopi-kapnismatos-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dr Agapitou | Επίσκεψη Κατ' Οίκον",
+    "url": "/clinic-services/episkepsi-kat-oikon",
+    "seo": {
+      "metaTitle": "Καρδιολόγος Κατ' Οίκον στην Ηλιούπολη | Dr Αγαπητού",
+      "metaDescription": "Καρδιολογική εξέταση κατ' οίκον από την Καρδιολόγο Έλενα Αγαπητού: κλινική εξέταση, ΗΚΓ και υπέρηχος καρδιάς με φορητό εξοπλισμό, τοποθέτηση Holter.",
+      "canonicalUrl": "https://kardiologos-agapitou.gr/clinic-services/episkepsi-kat-oikon",
+      "focusKeywords": [
+        "Καρδιολόγος κατ' οίκον",
+        "Καρδιολόγος στο σπίτι Ηλιούπολη",
+        "Ηλεκτροκαρδιογράφημα κατ' οίκον",
+        "Υπέρηχος καρδιάς στο σπίτι"
+      ],
+      "nofollow": false,
+      "noindex": false,
+      "ogImage": {
+        "url": "https://images.ctfassets.net/n8ip1shnectl/72bnd4DsN4zOEXMSLrgm4c/052d7782b3008bc714e7073d1a2fb4d0/ogImage.webp",
+        "width": 1200,
+        "height": 630,
+        "description": "Η Καρδιολόγος Έλενα Αγαπητού στο ιατρείο της στην Ηλιούπολη – Επαγγελματική φωτογραφία της Ιατρού με λογότυπο και τίτλο “Καρδιολόγος – Ηλιούπολη”",
+        "contentType": "image/webp"
+      }
+    },
+    "fontMain": "Roboto",
+    "fontHeading": "Roboto",
+    "colorPrimary": "brand",
+    "colorSecondary": "brand",
+    "borderRadius": "medium",
+    "content": [
+      {
+        "contentType": "smartsection",
+        "id": "svc-episkepsi-kat-oikon-hero",
+        "htmlid": "episkepsi-kat-oikon-hero",
+        "layout": "Columns",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": true,
+        "paddingTop": "2xl",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": "Υπηρεσίες Ιατρείου",
+            "title": "# __Επίσκεψη Κατ' Οίκον__",
+            "disclaimer": null,
+            "titleFontSize": "lg",
+            "body": "Για όσους δυσκολεύονται να μετακινηθούν, υπάρχει δυνατότητα πλήρους καρδιολογικής εξέτασης κατ' οίκον, με φορητό εξοπλισμό που επιτρέπει τη διενέργεια των βασικών εξετάσεων στο χώρο σας.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-episkepsi-kat-oikon-cta-hero",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "contentType": "featuredmedia",
+            "file": {
+              "url": "https://images.ctfassets.net/n8ip1shnectl/7e238Rx8WlnJyuqcqNB8Fh/38868fd4abda33621f193f7e0457f963/agapitou-19.jpg",
+              "title": "Επίσκεψη Κατ' Οίκον",
+              "description": "Φορητός καταγραφέας για εξετάσεις στο σπίτι",
+              "width": 1000,
+              "height": 667,
+              "contentType": "image/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "svc-episkepsi-kat-oikon-info",
+        "htmlid": "episkepsi-kat-oikon-info",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#EBEDF4",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "base",
+        "paddingBottom": "xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "contentType": "richcontent",
+            "eyebrow": null,
+            "title": null,
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "body": "## __Τι περιλαμβάνει η κατ' οίκον επίσκεψη__\n\n- Κλινική καρδιολογική εξέταση και λήψη ιστορικού\n- Ηλεκτροκαρδιογράφημα (ΗΚΓ)\n- Υπέρηχο (triplex) καρδιάς με φορητό υπερηχογράφο\n- Τοποθέτηση Holter ρυθμού ή Holter πίεσης\n\n## __Σε ποιους απευθύνεται__\n\nΗ υπηρεσία απευθύνεται κυρίως σε ηλικιωμένους, σε ασθενείς με κινητικές δυσκολίες ή χρόνιες παθήσεις, καθώς και σε όσους η μετακίνηση προς το ιατρείο είναι δύσκολη ή αντενδείκνυται.\n\n## __Πώς προγραμματίζεται__\n\nΗ κατ' οίκον επίσκεψη προγραμματίζεται κατόπιν τηλεφωνικής συνεννόησης με το ιατρείο, ώστε να καθοριστεί ο κατάλληλος χρόνος και να προετοιμαστεί ο απαραίτητος εξοπλισμός για τις εξετάσεις που χρειάζεστε.",
+            "alignment": "start",
+            "paddingTop": null,
+            "paddingLeft": null,
+            "paddingBottom": null,
+            "paddingRight": null,
+            "ctas": [
+              {
+                "id": "svc-episkepsi-kat-oikon-cta-contact",
+                "href": "/contact",
+                "label": "Κλείστε Ραντεβού",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null
+              },
+              {
+                "id": "svc-episkepsi-kat-oikon-cta-services",
+                "href": "/clinic-services",
+                "label": "Όλες οι Υπηρεσίες",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   {
     "title": "Dr Agapitou | Επικοινωνία",
     "url": "/contact",
