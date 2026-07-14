@@ -1,6 +1,13 @@
 import '@/app/styles/globals.css';
+import { Metadata } from 'next';
 import Script from 'next/script';
 import { AccessibilityButton } from '@/components/elements/AccessibilityButton/AccessibilityButton';
+import { SITE_URL } from '@/helpers/constants';
+import { physicianJsonLd } from '@/helpers/jsonLd';
+
+export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
+};
 
 export default async function RootLayout({
   children,
@@ -67,6 +74,10 @@ export default async function RootLayout({
           })();
           `}
         </Script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(physicianJsonLd) }}
+        />
         {children}
         <AccessibilityButton />
       </body>
