@@ -59,6 +59,10 @@
     "*.{js,ts,jsx,tsx,json}": [
       "yarn format",
       "git add"
+    ],
+    "src/helpers/query/static-data/pages.json": [
+      "node scripts/generate-page-dates.mjs",
+      "git add src/helpers/query/static-data/page-dates.json"
     ]
   },
   "engines": {
